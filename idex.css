@@ -1,0 +1,30 @@
+.column {
+    flex: 300%;
+    height: 400px;
+    padding: 10px;
+    margin: 5px;
+    border: 20px black;
+    background-color: rgb(164, 178, 129);
+    text-align: center;
+
+
+  }
+  .container {
+     display: flex;
+  }	
+  #details{
+    font-weight:bold;
+    color: white;
+    background-color:black;
+  }
+  #detail{
+    font-weight: bolder;
+    color: white;
+    background-color:black;
+  }
+  #detailss{
+    font-weight: bolder;
+    color: white;
+    background-color:black;
+    
+  }
